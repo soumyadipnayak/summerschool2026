@@ -1,0 +1,1 @@
+Personal coding practice and assignment workouts for <a href="https://summerschool.iitjammu.ac.in/college-programs/6m-data-science-ai/">Summer School 2026 Data Science and AI</a> Offline Batch
